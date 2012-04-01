@@ -1,0 +1,2 @@
+This directory contains several folders with prototypes requiring each other.
+Ciwii-Core reads the main-directory first, continuing with r0-r3.

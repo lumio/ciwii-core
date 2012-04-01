@@ -1,0 +1,8 @@
+Todo
+
+* load-function
+* DB Drivers
+* Auth Extension
+* Output Extension
+* Remove rN-folders of extensions
+* Load extensions and then call the init function

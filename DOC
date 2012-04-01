@@ -1,0 +1,8 @@
+= Configuration-Files =
+
+== Reading Configuration-Values ==
+$this->config(string $key, mixed $default, string $convert);
+
+$key		= Configuration-Key
+$default	= Default value if key does not exist
+$convert	= Convert value. Good for having a string in an array
