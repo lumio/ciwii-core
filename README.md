@@ -7,7 +7,7 @@ Many platforms are using a simple UI already which made this project more or les
 
 Anyway, if you want to see a quick demo of this project, there is still one out there on [YouTube](http://www.youtube.com/watch?v=u9v4UqGcrRA).
 
-If you thing this project could be still useful, you are free to fork it. If you want you can even let me know.
+If you think this project could be still useful, you are free to fork it. If you want you can even let me know.
 
 And if you are on the way looking for a good blogging system, here is some advertisement from me for you:
 
